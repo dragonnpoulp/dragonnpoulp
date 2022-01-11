@@ -19,7 +19,7 @@ const projects = [
 		role: 'Technical Architect, Freelancer',
 		techStack: [NODEJS, REACTJS, NEXTJS].join(''),
 		tags: ['js'],
-		from: 'June, 2021',
+		from: 'June 2021',
 		to: 'now'
 	},
 	{
@@ -27,8 +27,8 @@ const projects = [
 		at: 'Flavorwiki',
 		techStack: [GRAPHQL, MONGO, NODEJS, REACTJS].join(''),
 		role: 'Senior Software Architect, Freelancer',
-		from: 'May, 2020',
-		to: 'November, 2020',
+		from: 'May 2020',
+		to: 'November 2020',
 		tags: ['js']
 	},
 	{
@@ -45,7 +45,7 @@ const projects = [
 		at: 'NFQ Asia',
 		role: 'Full-stack Software Engineer',
 		from: '2018',
-		to: 'June, 2019',
+		to: 'June 2019',
 		tags: ['js'],
 		techStack: [GRAPHQL, MONGO, NODEJS, REACTJS].join('')
 	},
@@ -55,7 +55,7 @@ const projects = [
 		at: '',
 		role: 'Solo Developer',
 		tags: ['js'],
-		from: 'Jan, 2021',
+		from: 'Jan 2021',
 		to: 'now'
 	},
 	{
@@ -64,7 +64,7 @@ const projects = [
 		at: '',
 		role: 'Solo Developer',
 		tags: ['js'],
-		from: 'May, 2021',
+		from: 'May 2021',
 		to: 'now'
 	},
 	{
@@ -73,7 +73,7 @@ const projects = [
 		at: 'FPT Information System',
 		role: 'Technical Leader',
 		from: '2010',
-		to: 'July, 2017',
+		to: 'July 2017',
 		tags: ['.net']
 	},
 	{
@@ -81,16 +81,16 @@ const projects = [
 		techStack: [NET, ORACLE].join(''),
 		at: 'FPT Information System',
 		role: 'Technical Leader',
-		from: 'July, 2017',
-		to: 'March, 2018'
+		from: 'July 2017',
+		to: 'March 2018'
 	},
 	{
 		name: 'Live securities price board',
 		techStack: [NET, ORACLE].join(''),
 		at: 'FPT Information System',
 		role: 'Full-stack Software Engineer',
-		from: 'January, 2009',
-		to: 'September, 2009'
+		from: 'January 2009',
+		to: 'September 2009'
 	},
 	{
 		name: 'APEC Securities Online Trading System',

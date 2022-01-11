@@ -78,8 +78,8 @@
 			</div>
 			<div>
 				<span
-					>{item.from} – {item.to} · {moment(item.from).from(
-						item.to === 'now' ? new Date() : item.to,
+					>{item.from} – {item.to} · {moment(item.from, 'MMMM YYYY').from(
+						moment(item.to === 'now' ? new Date() : item.to, 'MMMM YYYY'),
 						true
 					)}</span
 				>
@@ -120,8 +120,8 @@
 					{'  '}·{'  '}
 				{/if}
 				<span
-					>{item.from} – {item.to} · {moment(item.from).from(
-						item.to === 'now' ? new Date() : item.to,
+					>{item.from} – {item.to} · {moment(item.from, 'MMMM YYYY').from(
+						moment(item.to === 'now' ? new Date() : item.to, 'MMMM YYYY'),
 						true
 					)}</span
 				>
