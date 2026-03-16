@@ -1,0 +1,72 @@
+- name: Rapid Technology Learning
+  from: JUL-2017
+  intro: |
+    <div>Strong ability to quickly learn and adopt new technologies. When working with a technology of interest, I actively study its concepts and best practices. I am also comfortable learning unfamiliar technologies when required by project needs (e.g., Java, MATLAB, Python).</div>
+
+- name: Technical Mentorship & Code Review
+  from: JUL-2017
+  intro: |
+    <div>Provide mentorship through code and design reviews. I help teammates improve their work by giving clear explanations and constructive feedback on areas such as code style, program flow, architecture, and security considerations.</div>
+
+- name: Technical Problem Solving
+  from: JUL-2017
+  intro: |
+    <div>Analyze technical challenges with the team, leveraging industry best practices and proposing alternative solutions when needed.</div>
+
+- name: Hasura
+  icon: hasura
+  from: JUL-2017
+  intro: |
+    <div>A backend platform I enjoy working with for building GraphQL APIs rapidly and structuring data-driven services.</div>
+  tags: [js]
+
+- name: Node.js
+  icon: nodejs
+  from: JUL-2017
+  intro: |
+    <div>Used in multiple production projects since 2017. Experience with frameworks including Sails.js, Express.js, Next.js and Nest.js.</div>
+  tags: [js]
+
+- name: Reactjs
+  icon: reactjs
+  from: JUL-2017
+  intro: |
+    <div>Preferred framework for building frontend applications. Experience with Emotion / Styled Components, React Spring, Material UI, and Ant Design.</div>
+  tags: [js]
+
+- name: Angular 1.3
+  icon: angular
+  from: JUL-2017
+  intro: |
+    <div>Used in my first modern web application project (FPT.WebSmartCore), which introduced me to the JavaScript/Node.js ecosystem and open-source development.</div>
+
+- name: Oracle
+  icon: oracle
+  from: JUL-2017
+  intro: |
+    <div>Worked extensively with Oracle for about 8 years. Experienced in database design and developing PL/SQL stored procedures for enterprise applications.</div>
+  tags: [.net]
+
+- name: C#.NET
+  icon: net
+  from: JUL-2017
+  intro: |
+    <div>Used to develop FPT.SmartCore, a flexible framework for rapidly building business applications. The solution was widely adopted across projects at FPT Information System, enabling quick prototyping and fast delivery of client requirements.</div>
+  tags: [.net]
+
+- name: MongoDB
+  icon: mongo
+  from: JUL-2017
+  intro: |
+    <div>Used in projects such as EXO Connect and Flavorwiki.</div>
+
+- name: Postgres
+  icon: postgres
+  from: JUL-2017
+  intro: |
+    <div>About 5 years of experience using PostgreSQL as a primary relational database. Most recently used in production systems at Carousell.</div>
+
+- name: Other Technologies
+  from: JUL-2017
+  intro: |
+    <div>Redis, RabbitMQ, MySQL, Couchbase, Solr, MATLAB, Adobe Flex — used when designing and implementing complex system architectures.</div>

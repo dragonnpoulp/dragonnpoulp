@@ -1,0 +1,101 @@
+- name: Carousell Shopify App
+  company: carousell
+  role: Full-stack Software Engineer
+  stacks: [NODEJS, REACTJS, NEXTJS]
+  tags: [js]
+  from: May, 2024
+  to: November, 2025
+
+- name: Carousell App
+  company: carousell
+  role: Engineering Manager
+  stacks: [GO, REACTJS, NEXTJS]
+  tags: [js]
+  from: May, 2024
+  to: November, 2025
+
+- name: OxStreet
+  company: oxstreet
+  role: Full-stack Software Engineer, Freelancer
+  stacks: [NODEJS, REACTJS, NEXTJS]
+  tags: [js]
+  from: June 2021
+  to: now
+
+- name: SoBanHang
+  company: finan
+  role: Technical Architect, Freelancer
+  stacks: [NODEJS, REACTJS, NEXTJS]
+  tags: [js]
+  from: June 2021
+  to: now
+
+- name: Flavorwiki
+  company: flavorwiki
+  role: Senior Software Architect, Freelancer
+  stacks: [GRAPHQL, MONGO, NODEJS, REACTJS]
+  tags: [js]
+  from: May 2020
+  to: November 2020
+
+- name: Powersell.net
+  company: datamart
+  role: Technical Leader
+  stacks: [NODEJS, MYSQL]
+  tags: [js]
+  from: "2017"
+  to: "2018"
+
+- name: EXO Connect
+  company: nfq
+  role: Full-stack Software Engineer
+  stacks: [GRAPHQL, MONGO, NODEJS, REACTJS]
+  tags: [js]
+  from: "2018"
+  to: June 2019
+
+- name: School Attendance System
+  role: Solo Developer
+  stacks: [GRAPHQL, HASURA, POSTGRES, NODEJS, REACTJS]
+  tags: [js]
+  from: Jan 2021
+  to: now
+
+- name: Magikpic
+  role: Solo Developer
+  stacks: [GRAPHQL, HASURA, POSTGRES, NODEJS, REACTJS]
+  tags: [js]
+  from: May 2021
+  to: now
+
+- name: FPT.SmartCore
+  company: fis
+  role: Technical Leader
+  stacks: [ANGULAR, NET, ORACLE]
+  tags: [.net]
+  from: "2010"
+  to: July 2017
+
+- name: FPT.WebSmartCore
+  company: fis
+  role: Technical Leader
+  stacks: [NET, ORACLE]
+  tags: [.net]
+  from: July 2017
+  to: March 2018
+
+- name: Live securities price board
+  company: fis
+  role: Full-stack Software Engineer
+  stacks: [NET, ORACLE]
+  tags: [.net]
+  from: January 2009
+  to: September 2009
+
+- name: APEC Securities Online Trading System
+  company: fis
+  role: Full-stack Software Engineer
+  stacks: [ADOBE_FLEX, NET, ORACLE]
+  tags: [.net]
+  from: "2009"
+  to: "2010"
