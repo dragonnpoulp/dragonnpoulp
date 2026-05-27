@@ -38,12 +38,19 @@ h4 {
 }
 
 section {
-	margin-left: 16px;
+	break-inside: avoid;
+    page-break-inside: avoid;
 }
 
 section p {
 	margin-top: 0;
+	margin-left: 32px;
 	margin-bottom: 8px;
+}
+
+section ul {
+	margin-left: 32px;
+	padding-left: 16px;
 }
 
 p.note {

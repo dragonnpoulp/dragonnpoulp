@@ -1,0 +1,15 @@
+You are an expert technical recruiter.
+Analyze the following job description and extract structured hiring signals.
+Output schema: { "jobTitle": "", "seniority": "", "companyType": "", "coreSkills": [], "secondarySkills": [], "leadershipRequirements": [], "domainKnowledge": [], "softSkills": [], "keywords": [], "summary": "", "prioritySignals": [ { "signal": "", "importance": 1-10, "reason": "" } ] }
+
+OUTPUT FORMAT:
+Return ONLY valid JSON.
+Rules:
+	- Do not explain.
+	- Do not add commentary.
+	- Do not infer unsupported technologies.
+	- Group similar technologies together.
+	- Normalize terminology when appropriate.
+```
+{{__JD__}}
+```

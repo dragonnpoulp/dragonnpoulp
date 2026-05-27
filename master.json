@@ -1,0 +1,228 @@
+{
+	"basics": {
+		"name": "Long Nguyen",
+		"title": "Software Engineer / Engineering Manager"
+	},
+	"experiences": [
+		{
+			"company": "FPT Information System",
+			"roles": [
+				{
+					"title": "Full-stack Software Engineer",
+					"period": {
+						"start": "2008-08",
+						"end": "2012"
+					},
+					"highlights": [
+						"Developed enterprise systems for securities companies including online stock pricing boards and online trading platforms",
+						"Built business applications using .NET Framework, Adobe Flex, and Oracle Database",
+						"Worked on large-scale enterprise software deployed for financial institutions and government organizations"
+					],
+					"skills": [
+						".NET Framework",
+						"Adobe Flex",
+						"Oracle Database",
+						"Full-stack Development",
+						"Enterprise Software",
+						"Monolithic Architecture"
+					]
+				},
+				{
+					"title": "Senior Software Engineer",
+					"period": {
+						"start": "2012",
+						"end": "2017-06"
+					},
+					"highlights": [
+						"Served as a major contributor to FPT.SmartCore, an enterprise backend-to-frontend framework",
+						"Enabled rapid business feature development through metadata and database-driven configuration",
+						"Leveraged Oracle stored procedures to optimize enterprise business processing",
+						"Built features that could run consistently across both web and .NET desktop applications with similar UI and UX",
+						"Delivered enterprise solutions for securities companies, Hanoi Stock Exchange, and the State Bank of Vietnam"
+					],
+					"skills": [
+						".NET Framework",
+						"Oracle Database",
+						"Oracle Stored Procedures",
+						"Enterprise Architecture",
+						"Framework Development",
+						"Web Applications",
+						".NET Desktop Applications",
+						"Monolithic Architecture"
+					]
+				}
+			]
+		},
+		{
+			"company": "Datamart",
+			"roles": [
+				{
+					"title": "Technical Leader",
+					"project": "Powersell.net",
+					"period": {
+						"start": "2017",
+						"end": "2018"
+					},
+					"highlights": [
+						"Led technical development for the Powersell.net platform",
+						"Contributed to backend and frontend system development",
+						"Worked with search and indexing capabilities using Solr"
+					],
+					"skills": [
+						"Node.js",
+						"React.js",
+						"Solr",
+						"Technical Leadership",
+						"Full-stack Development"
+					]
+				}
+			]
+		},
+		{
+			"company": "NFQ Asia",
+			"roles": [
+				{
+					"title": "Full-stack Software Engineer",
+					"project": "EXO Connect",
+					"client": "EXO Travel",
+					"period": {
+						"start": "2018",
+						"end": "2019-06"
+					},
+					"highlights": [
+						"Took over and stabilized the project after the previous engineering team left",
+						"Developed and maintained full-stack application features",
+						"Worked with GraphQL-based APIs and MongoDB-backed services"
+					],
+					"skills": ["GraphQL", "Node.js", "MongoDB", "Full-stack Development"]
+				}
+			]
+		},
+		{
+			"company": "FlavorWiki",
+			"roles": [
+				{
+					"title": "Senior Software Engineer",
+					"period": {
+						"start": "2020-05",
+						"end": "2020-11"
+					},
+					"highlights": [
+						"Developed a food and beverage research platform for collecting consumer research data and generating analytical reports",
+						"Built full-stack product features using GraphQL, Node.js, MongoDB, and React.js",
+						"Worked on a monolithic system architecture deployed on a centralized server infrastructure",
+						"Contributed to research workflows that helped clients improve food and beverage products"
+					],
+					"skills": [
+						"GraphQL",
+						"Apollo GraphQL",
+						"Node.js",
+						"MongoDB",
+						"React.js",
+						"Full-stack Development",
+						"Monolithic Architecture"
+					]
+				}
+			]
+		},
+		{
+			"company": "Carousell",
+			"roles": [
+				{
+					"title": "Software Engineer",
+					"period": {
+						"start": "2021-06",
+						"end": "2022"
+					},
+					"highlights": [
+						"Led frontend engineering efforts for OxStreet.com, a sneaker marketplace acquired by Carousell",
+						"Mentored engineers on type-safe development practices in Next.js and TypeScript",
+						"Balanced engineering quality with strategic product delivery priorities",
+						"Developed marketplace and e-commerce platform features for buyers and sellers"
+					],
+					"skills": [
+						"Next.js",
+						"TypeScript",
+						"Frontend Engineering",
+						"Web Development",
+						"Mentorship",
+						"E-commerce"
+					]
+				},
+				{
+					"title": "Senior Software Engineer",
+					"period": {
+						"start": "2022",
+						"end": "2024"
+					},
+					"highlights": [
+						"Took ownership of the inventory-sync backend platform integrating Carousell sellers with Shopify",
+						"Maintained inventory synchronization between Carousell and merchants' Shopify stores",
+						"Led migration of inventory-sync services into Carousell infrastructure",
+						"Published and integrated the Carousell Shopify App as the frontend interface for inventory-sync capabilities"
+					],
+					"skills": [
+						"Node.js",
+						"Shopify",
+						"Backend Engineering",
+						"System Migration",
+						"API Integration",
+						"E-commerce Infrastructure"
+					]
+				},
+				{
+					"title": "Engineering Manager",
+					"period": {
+						"start": "2024",
+						"end": "2025-11"
+					},
+					"highlights": [
+						"Managed a cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android",
+						"Led development of Carousell platform features including order post-processing workflows",
+						"Contributed to Trust and Safety initiatives for fraud prevention and malicious behavior detection",
+						"Built backend services using Golang and maintained legacy Python services",
+						"Implemented microservice and event-driven architectures for scalable trust-processing systems"
+					],
+					"skills": [
+						"Engineering Management",
+						"Golang",
+						"Python",
+						"Microservices",
+						"Event-driven Architecture",
+						"Trust & Safety",
+						"Fraud Detection",
+						"Distributed Systems",
+						"Team Leadership"
+					]
+				}
+			]
+		},
+		{
+			"company": "SoBanHang",
+			"roles": [
+				{
+					"title": "Technical Architect",
+					"period": {
+						"start": "2021",
+						"end": "2021"
+					},
+					"highlights": [
+						"Led the frontend engineering team to build a fast and smooth user experience for both online buyers and seller POS workflows",
+						"Architected and developed frontend systems using Next.js",
+						"Contributed to the rapid growth of the platform in Vietnam's e-commerce market",
+						"Focused on scalable frontend architecture and performance optimization"
+					],
+					"skills": [
+						"Next.js",
+						"Frontend Architecture",
+						"Technical Leadership",
+						"Performance Optimization",
+						"E-commerce",
+						"POS Systems",
+						"Web Development"
+					]
+				}
+			]
+		}
+	]
+}

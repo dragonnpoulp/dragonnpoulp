@@ -1,0 +1,36 @@
+Summary
+
+About the Role
+We are seeking an experienced Senior Full-Stack Developer for a targeted optimization contract to resolve specific backend performance and memory bottlenecks on our live staging environment.
+
+Our application features data-heavy construction technology tools, estimating workflows, and architectural plan assets. Currently, specific modules suffer from V8 engine heap out-of-memory crashes caused by un-paginated eager-loading queries. The root files and exact database structures causing this issue have already been isolated. Your job will be to refactor the data flow from a "pull-everything" model to an efficient, server-side paginated and lazy-loaded structure.
+
+Core Objectives
+https://docs.google.com/document/d/1_3u_FJLSSYUtfEF5ieiE7W_bD1KOoZ1JVqecoBqPtv8/edit?tab=t.0#heading=h.ql9qvia8bihk
+Refactor Backend Queries: Optimize isolated INNER JOIN / LEFT OUTER JOIN queries across relational tables (tbl_products, tbl_product_variants, tbl_assemblies) using Sequelize/Node.js.
+
+Implement Server-Side Pagination: Introduce pagination parameters (LIMIT and OFFSET) on data-heavy endpoints to cap default payloads to a maximum of 50 items.
+
+Build Autocomplete Search Endpoints: Create high-performance, lightweight backend search routes that filter catalog data dynamically on-demand.
+
+Update Frontend Components: Modify Vue.js dropdown selectors and estimation tables to asynchronously consume the new paginated API and handle user search inputs smoothly in real-time.
+
+Process Stabilization: Adjust Node.js/V8 heap memory limits and process execution options under PM2 on our Linux environment.
+
+Technical Requirements
+Strong experience with Node.js (NestJS / Express) and relational database management (PostgreSQL/MySQL via Sequelize or similar ORMs).
+
+Strong experience with Vue.js for frontend state management and asynchronous UI component integration.
+
+Experience with Redis and managing background workers or configurations.
+
+Comfortable working directly via terminal on Linux server environments utilizing PM2 for process management.
+
+Proven track record of fixing memory leaks, tracking down OOM errors via logs, and optimizing data payloads.
+
+Project Details
+Project Type: Short-term contract with potential for ongoing feature development.
+
+Estimated Timeframe: 2 to 3 days (16–20 hours of focused work).
+
+Current Status: The problematic code files, server log outputs, and exact functional requirements are ready to be handed to you on Day 1 so you can dive straight in.

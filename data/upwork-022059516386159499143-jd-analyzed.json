@@ -1,0 +1,99 @@
+{
+  "jobTitle": "Senior Full-Stack Developer",
+  "seniority": "Senior",
+  "companyType": "Construction Technology",
+  "coreSkills": [
+    "Node.js",
+    "NestJS",
+    "Express",
+    "Sequelize ORM",
+    "PostgreSQL",
+    "MySQL",
+    "Vue.js",
+    "PM2"
+  ],
+  "secondarySkills": [
+    "Redis",
+    "Server-side pagination",
+    "Lazy loading",
+    "Linux server administration",
+    "Background workers",
+    "API endpoint optimization"
+  ],
+  "leadershipRequirements": [],
+  "domainKnowledge": [
+    "Construction technology tools",
+    "Estimating workflows",
+    "Architectural plan assets",
+    "E-commerce/Product catalogs"
+  ],
+  "softSkills": [
+    "Direct terminal work capability",
+    "Self-directed execution",
+    "Memory troubleshooting",
+    "Performance optimization"
+  ],
+  "keywords": [
+    "Node.js",
+    "NestJS",
+    "Express",
+    "Sequelize",
+    "PostgreSQL",
+    "MySQL",
+    "Vue.js",
+    "Redis",
+    "PM2",
+    "Linux",
+    "V8 heap",
+    "OOM errors",
+    "Memory leaks",
+    "Server-side pagination",
+    "Lazy loading",
+    "Autocomplete search",
+    "Performance optimization",
+    "LIMIT OFFSET"
+  ],
+  "summary": "Contract engagement to resolve critical V8 heap out-of-memory crashes in a construction technology application by refactoring eager-loading queries to paginated endpoints, implementing autocomplete search functionality, and updating Vue.js frontend components to consume new APIs. Short-term 16-20 hour project with isolated problem files ready on Day 1.",
+  "prioritySignals": [
+    {
+      "signal": "V8 heap/Memory leak troubleshooting experience",
+      "importance": 10,
+      "reason": "Core issue involves active OOM crashes from unpaginated eager-loading queries; must track down memory issues via logs"
+    },
+    {
+      "signal": "Node.js backend development (NestJS/Express)",
+      "importance": 10,
+      "reason": "Backend stack is explicitly Node.js based; strong experience required for refactoring"
+    },
+    {
+      "signal": "Sequelize ORM with PostgreSQL/MySQL",
+      "importance": 9,
+      "reason": "Database queries involve INNER JOIN/LEFT OUTER JOIN across tbl_products, tbl_product_variants, tbl_assemblies"
+    },
+    {
+      "signal": "Vue.js frontend skills",
+      "importance": 9,
+      "reason": "Must update dropdown selectors and estimation tables to consume paginated APIs asynchronously"
+    },
+    {
+      "signal": "Server-side pagination implementation",
+      "importance": 9,
+      "reason": "Core objective is implementing LIMIT/OFFSET pagination capped at 50 items"
+    },
+    {
+      "signal": "PM2 and Linux server administration",
+      "importance": 8,
+      "reason": "Must adjust memory limits and process execution options on Linux environment"
+    },
+    {
+      "signal": "Redis experience",
+      "importance": 8,
+      "reason": "Listed as technical requirement for background workers/configuration management"
+    },
+    {
+      "signal": "Search/filtering development",
+      "importance": 7,
+      "reason": "Must build high-performance autocomplete search endpoints for catalog filtering"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+
+{
+  "professionalSummary": "Software engineer with 17+ years of experience progressing from individual contributor to engineering leader. Currently managing cross-functional teams and building scalable e-commerce platform features. Strong background in full-stack development with expertise in Node.js, TypeScript, Go, and modern frontend frameworks. Proven track record of stabilizing legacy systems, leading technical migrations, and delivering high-impact platform features for marketplace and e-commerce businesses.",
+  "careerHighlights": [
+    "Engineering Manager at Carousell leading a 6-engineer cross-functional team supporting trust, safety, and platform infrastructure initiatives",
+    "Technical Architect at SoBanHang leading frontend engineering for Vietnam's fast-growing e-commerce marketplace",
+    "Led migration of inventory-sync services from acquired startup into Carousell's infrastructure, publishing the official Shopify App for merchant integration",
+    "Stabilized multiple legacy codebases inherited from departing teams, restoring development velocity and system reliability",
+    "Built enterprise backend framework at FPT enabling rapid feature development across web and desktop applications for financial institutions",
+    "Delivered solutions for major Vietnamese financial organizations including Hanoi Stock Exchange and State Bank of Vietnam"
+  ],
+  "coreSkills": {
+    "frontend": [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "Vue.js",
+      "GraphQL (Apollo)",
+      "Frontend Architecture",
+      "Performance Optimization",
+      "State Management"
+    ],
+    "backend": [
+      "Node.js",
+      "NestJS",
+      "Express",
+      "Golang",
+      "Python",
+      ".NET Framework",
+      "GraphQL",
+      "REST APIs",
+      "Microservices",
+      "Event-driven Architecture"
+    ],
+    "databasesAndInfrastructure": [
+      "PostgreSQL",
+      "MySQL",
+      "Oracle Database",
+      "MongoDB",
+      "Redis",
+      "Solr",
+      "PM2",
+      "Linux Server Administration",
+      "AWS"
+    ],
+    "engineering": [
+      "System Architecture",
+      "Technical Leadership",
+      "Code Review",
+      "Mentorship",
+      "Performance Optimization",
+      "Memory Management",
+      "API Design",
+      "Distributed Systems",
+      "Legacy System Migration",
+      "Agile/Scrum"
+    ],
+    "leadership": [
+      "Engineering Management",
+      "Cross-functional Team Leadership",
+      "Technical Strategy",
+      "Stakeholder Communication",
+      "Mentorship & Development",
+      "Project Planning",
+      "Technical Decision Making"
+    ]
+  },
+  "experiences": [
+    {
+      "company": "Carousell",
+      "roles": [
+        {
+          "title": "Engineering Manager",
+          "period": "2024 – Nov 2025",
+          "highlights": [
+            "Managed cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android",
+            "Led development of platform features including order post-processing workflows",
+            "Contributed to Trust and Safety initiatives for fraud prevention and malicious behavior detection",
+            "Built backend services in Golang and maintained legacy Python services",
+            "Implemented microservice and event-driven architectures for scalable trust-processing systems"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer",
+          "period": "2022 – 2024",
+          "highlights": [
+            "Owned the inventory-sync backend platform integrating Carousell sellers with Shopify",
+            "Led migration of inventory-sync services into Carousell infrastructure",
+            "Published and integrated the official Carousell Shopify App as frontend interface for inventory-sync capabilities"
+          ]
+        },
+        {
+          "title": "Software Engineer",
+          "period": "2021 – 2022",
+          "highlights": [
+            "Led frontend engineering for OxStreet.com, a sneaker marketplace acquired by Carousell",
+            "Mentored engineers on type-safe development practices using Next.js and TypeScript",
+            "Balanced engineering quality with strategic product delivery priorities"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "SoBanHang",
+      "roles": [
+        {
+          "title": "Technical Architect",
+          "period": "2025 – Present",
+          "highlights": [
+            "Leading frontend engineering team for Vietnam's e-commerce marketplace",
+            "Architected scalable frontend systems using Next.js",
+            "Driving platform growth through performance optimization and user experience improvements"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "FlavorWiki",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "period": "2020 – 2020",
+          "highlights": [
+            "Built full-stack features for food and beverage consumer research platform",
+            "Developed GraphQL, Node.js, MongoDB, and React.js solutions",
+            "Contributed to analytical reporting systems helping clients improve products"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "NFQ Asia",
+      "roles": [
+        {
+          "title": "Full-stack Software Engineer",
+          "period": "2018 – 2019",
+          "highlights": [
+            "Stabilized EXO Connect project after previous engineering team departure",
+            "Developed and maintained full-stack application features",
+            "Worked with GraphQL APIs and MongoDB-backed services"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Datamart",
+      "roles": [
+        {
+          "title": "Technical Leader",
+          "period": "2017 – 2018",
+          "highlights": [
+            "Led technical development for Powersell.net platform",
+            "Contributed to backend and frontend systems with search capabilities using Solr"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "FPT Information System",
+      "roles": [
+        {
+          "title": "Senior Software Engineer",
+          "period": "2012 – 2017",
+          "highlights": [
+            "Major contributor to FPT.SmartCore enterprise backend-to-frontend framework",
+            "Enabled rapid business feature development through metadata and database-driven configuration",
+            "Delivered solutions for securities companies, Hanoi Stock Exchange, and State Bank of Vietnam",
+            "Optimized enterprise business processing using Oracle stored procedures"
+          ]
+        },
+        {
+          "title": "Full-stack Software Engineer",
+          "period": "2008 – 2012",
+          "highlights": [
+            "Developed enterprise systems for securities companies including stock pricing boards and trading platforms",
+            "Built business applications using .NET Framework, Adobe Flex, and Oracle Database"
+          ]
+        }
+      ]
+    }
+  ]
+}
