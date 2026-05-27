@@ -1,8 +1,12 @@
 import type { PageServerLoad } from './$types';
-import fs from "node:fs/promises";
+
+const files = import.meta.glob('../../../data/*.json', {
+  eager: true
+});
 
 export const load: PageServerLoad = async ({ params }) => {
+	const module: any = files[`../../../data/${params.id}-resume.json`];
 	return {
-		...JSON.parse((await fs.readFile(`data/${params.id}-resume.json`)).toString())
+		...module
 	};
 }
