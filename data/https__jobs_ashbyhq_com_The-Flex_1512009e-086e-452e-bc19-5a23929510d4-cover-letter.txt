@@ -1,0 +1,7 @@
+I'm a Senior Software Engineer with 7+ years building high-throughput backend systems at scale. At Stripe, I led migration of the dispute and refund pipeline to a distributed architecture handling 10K+ requests per second with sub-50ms p99 latency. I have a track record of reducing infrastructure costs 40%+ through strategic caching and query optimization.
+
+My experience spans designing multi-region, fault-tolerant systems and mentoring teams of 3-5 engineers across the full delivery lifecycle. I'm particularly drawn to [Company] because of your focus on [specific JD element], and I've consistently delivered systems that balance reliability with developer velocity.
+
+I led the design of Stripe's internal feature flagging service and championed observability standards that reduced mean time to detection by 60%. I thrive in environments requiring both deep technical execution and cross-functional collaboration.
+
+I'd love to discuss how my background in distributed systems and engineering leadership aligns with this role.

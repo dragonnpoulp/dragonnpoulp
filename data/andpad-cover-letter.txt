@@ -1,0 +1,7 @@
+I am applying for the Golang Engineer position at ANDPAD. At Carousell, I currently lead a cross-functional team building trust and safety systems using Golang, implementing microservice and event-driven architectures for scalable processing.
+
+I have 5+ years of Golang experience building backend services and APIs. At Carousell, I took ownership of the inventory-sync backend platform, led migration of services into microservices architecture, and published a Shopify integration app. My technical leadership spans architecture design through production deployment.
+
+I am proficient in AWS and experienced with both RDBMS and KVS databases. I have built monitoring solutions using Datadog and have web application security knowledge.
+
+I am drawn to ANDPAD's construction tech platform and SaaS approach. I look forward to contributing to a collaborative squad environment.

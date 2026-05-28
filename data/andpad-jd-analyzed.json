@@ -1,0 +1,130 @@
+{
+  "jobTitle": "Golang Engineer",
+  "seniority": "Mid to Senior",
+  "companyType": "SaaS (Construction Technology)",
+  "coreSkills": [
+    "Golang (5+ years)",
+    "AWS",
+    "gRPC",
+    "Web services development",
+    "Microservices architecture",
+    "RDBMS schema design",
+    "KVS schema design",
+    "Web application security",
+    "Unit testing"
+  ],
+  "secondarySkills": [
+    "GCP",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "Packer",
+    "Ansible",
+    "Elasticsearch",
+    "DynamoDB",
+    "Aurora MySQL",
+    "Datadog",
+    "Bugsnag",
+    "CircleCI",
+    "CodeBuild",
+    "CodePipeline",
+    "GitHub Actions",
+    "OSS contribution",
+    "Technical writing"
+  ],
+  "leadershipRequirements": [
+    "Technical lead experience throughout full project development lifecycle",
+    "Architecture design based on requirements",
+    "Middleware selection",
+    "Squad-based collaboration with product managers and designers"
+  ],
+  "domainKnowledge": [
+    "SaaS product development",
+    "Construction/building industry",
+    "Microservices architecture patterns",
+    "CI/CD pipelines",
+    "Infrastructure as Code"
+  ],
+  "softSkills": [
+    "Empathy for mission and company values",
+    "English communication (business level)",
+    "Cross-functional collaboration",
+    "Problem-solving from log analysis",
+    "Quality improvement orientation"
+  ],
+  "keywords": [
+    "golang",
+    "go",
+    "aws",
+    "gcp",
+    "grpc",
+    "microservices",
+    "saas",
+    "docker",
+    "kubernetes",
+    "terraform",
+    "aurora",
+    "elasticsearch",
+    "dynamodb",
+    "datadog",
+    "circleci",
+    "codebuild",
+    "codepipeline",
+    "github actions",
+    "ansible",
+    "packer",
+    "swagger",
+    "figma",
+    "construction tech",
+    "product development",
+    "full stack"
+  ],
+  "summary": "ANDPAD is seeking a Golang Engineer with 5+ years of experience to join their SaaS platform serving the construction industry. The role involves designing and implementing product features, refactoring for microservices, and leading technical architecture decisions. The ideal candidate will have strong AWS and gRPC expertise, experience with database schema design (RDBMS and KVS), and ability to work in cross-functional squads. The company offers hybrid work, competitive benefits including 18 days leave, premium healthcare, and annual performance reviews twice yearly.",
+  "prioritySignals": [
+    {
+      "signal": "5+ years Golang with AWS and gRPC experience",
+      "importance": 9,
+      "reason": "Explicitly required technical foundation; forms the core of the role and is non-negotiable for the position"
+    },
+    {
+      "signal": "Technical lead experience throughout full project lifecycle",
+      "importance": 8,
+      "reason": "Demonstrates ability to drive architecture decisions and lead development from conception to operation"
+    },
+    {
+      "signal": "Microservices architecture and containerization",
+      "importance": 8,
+      "reason": "Company is actively refactoring products for microservices; Docker/Kubernetes experience is highly valued"
+    },
+    {
+      "signal": "Schema design for RDBMS and KVS",
+      "importance": 7,
+      "reason": "Critical for database optimization; Aurora MySQL, Elasticsearch, and DynamoDB are in their tech stack"
+    },
+    {
+      "signal": "Infrastructure as Code (Terraform/Packer)",
+      "importance": 7,
+      "reason": "Part of their development environment with explicit IaC tools listed"
+    },
+    {
+      "signal": "English communication skills",
+      "importance": 7,
+      "reason": "International environment mentioned; business-level English is required for cross-team collaboration"
+    },
+    {
+      "signal": "Monitoring and observability (Datadog, Bugsnag)",
+      "importance": 6,
+      "reason": "Supports production operations and quality improvement initiatives"
+    },
+    {
+      "signal": "OSS contribution or technical blog",
+      "importance": 5,
+      "reason": "Nice-to-have differentiator showing technical passion and external visibility"
+    },
+    {
+      "signal": "Web application security knowledge",
+      "importance": 7,
+      "reason": "Explicit requirement for building secure web services"
+    }
+  ]
+}

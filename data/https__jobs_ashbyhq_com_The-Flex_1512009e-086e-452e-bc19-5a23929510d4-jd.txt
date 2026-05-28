@@ -1,0 +1,81 @@
+Join the team redefining the future of global living — from the ground up.
+
+At The Flex, we believe renting a home should feel instant, intelligent, and effortless — as seamless as booking a ride.
+Our ambition is bold: enabling anyone to live anywhere, anytime, without friction.
+
+Powered by Base360.ai, our proprietary automation engine, we’re building the operating system for modern renting — connecting property data, orchestrating operations, and enabling seamless stays across continents.
+
+This is not a job where you “pick up tickets.”
+This is a chance to build a company’s technical foundation and define how a global platform operates at scale.
+💡 What You’ll Build
+
+As a Founding Engineer, you will help design, build, and scale the core technology that The Flex is built on — from first principles.
+
+You’ll work across product, engineering, and operations, owning systems end-to-end: web apps, APIs, automation pipelines, integrations, and cloud infrastructure.
+
+You’ll make architectural decisions early — the kind that matter for years — and move fast to turn ideas into production systems used in the real world.
+
+If you enjoy ambiguity, ownership, and building things that actually ship, this role is for you.
+⚙️ Your Mission
+
+Build from Zero to One
+Design and implement the initial architecture powering bookings, payments, availability, and guest experience.
+
+Own the Stack
+Build across frontend, backend, APIs, and cloud infrastructure — choosing tools and patterns that scale.
+
+Automate the Business
+Replace manual processes with event-driven workflows and intelligent automation from day one.
+
+Integrate the Ecosystem
+Build deep integrations with platforms such as Airbnb, Stripe, Hostaway, and Twilio.
+
+Ship Relentlessly
+Deploy, monitor, and iterate on production systems with speed, reliability, and pragmatism.
+
+Solve Real-World Problems
+Tackle real-time booking sync, pricing intelligence, keyless access logic, AI-powered alerts, and operational dashboards.
+
+Set the Technical DNA
+Establish engineering standards, best practices, and a culture of quality, ownership, and execution.
+🧠 You’re a Great Fit If You Have
+
+    Strong experience building production systems (full-stack or backend-heavy)
+
+    Comfort working across web apps, APIs, and cloud infrastructure
+
+    Experience with FastAPI, React, and AWS (or equivalent stacks)
+
+    A bias toward shipping over perfection
+
+    High tolerance for ambiguity and changing requirements
+
+    An ownership mindset — you treat the product like it’s yours
+
+🌍 Why You’ll Love Working Here
+
+Foundational Impact
+Your work will define how the company operates for years to come.
+
+Extreme Ownership
+You won’t just influence decisions — you’ll make them.
+
+Fast Feedback Loop
+What you build goes live, gets used, and evolves quickly.
+
+Meaningful Upside
+Competitive compensation with strong upside aligned to long-term success.
+
+Remote-First
+Work from anywhere — autonomy and trust are core to how we operate.
+🚫 This Role Is Not for You If
+
+    You want well-defined requirements and rigid processes
+
+    You avoid responsibility for production systems
+
+    You prefer specialization over ownership
+
+    You’re optimizing for comfort instead of impact
+
+#LI-Remote

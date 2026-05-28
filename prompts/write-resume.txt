@@ -23,6 +23,9 @@ The resume must be:
 - visually readable
 - technically strong
 
+PRIMARY OBJECTIVE:
+Prioritize and emphasize experiences based on their relevance to the target job description.
+
 GOALS:
 - Prioritize the most important companies and leadership roles with more detail.
 - Keep smaller, older, or less relevant experiences concise.
@@ -60,6 +63,19 @@ CORE SKILLS RULES:
 - Prioritize skills relevant to the target job
 - Avoid listing weak or outdated technologies unless relevant
 
+RELEVANCE EXPERIENCE RULES:
+- DO NOT strictly follow chronological order.
+- Order experiences primarily by relevance to the target job description.
+- The most relevant experience MUST appear first, even if it is not the most recent role.
+- The most relevant experiences MUST receive:
+  - more detail
+  - stronger technical depth
+  - more bullet points
+  - more architectural and leadership emphasis
+- Less relevant experiences MUST be compressed into shorter summaries.
+- Older or unrelated experiences should only include high-signal information.
+- Prioritize technologies, responsibilities, and achievements that directly match the JD.
+
 EXPERIENCE FORMATTING:
 
 ## {Role}
@@ -93,7 +109,17 @@ JSON STRUCTURE:
     "engineering": [],
     "leadership": []
   },
-  "professionalExperience": []
+  "professionalExperience": [
+    {
+      "role": "",
+      "company": "",
+      "location": "",
+      "start": "YYYY or MMM. YYYY",
+      "end": "YYYY or MMM. YYYY",
+      "responsibilities": [],
+      "technologies": []
+    }
+  ]
 }
 
 TARGET JOB:

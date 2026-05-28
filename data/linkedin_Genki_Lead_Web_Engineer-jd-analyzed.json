@@ -1,0 +1,97 @@
+{
+  "jobTitle": "Lead Web Engineer",
+  "seniority": "Senior/Lead",
+  "companyType": "Remote-First Startup",
+  "coreSkills": [
+    "TypeScript",
+    "React",
+    "React Router",
+    "Next.js",
+    "Astro",
+    "SCSS Modules",
+    "Vite",
+    "GraphQL",
+    "Cloudflare",
+    "Railway"
+  ],
+  "secondarySkills": [
+    "Figma",
+    "Pixel-perfect implementation",
+    "Shared component libraries",
+    "Monorepo setups",
+    "Deployment automation",
+    "Browser capabilities"
+  ],
+  "leadershipRequirements": [
+    "Own technical direction for all web projects",
+    "Build and grow web engineering team",
+    "Design cross-project infrastructure",
+    "Enable non-engineers to ship software safely",
+    "Establish security and deployment guardrails",
+    "Report directly to CEO"
+  ],
+  "domainKnowledge": [
+    "Health insurance for digital nomads",
+    "International travel healthcare",
+    "Production web application architecture",
+    "Web security best practices",
+    "Performance optimization"
+  ],
+  "softSkills": [
+    "Systems thinking over screen-level thinking",
+    "Detail-oriented with UX focus",
+    "Decision-making with incomplete information",
+    "Async-first communication",
+    "Cross-cultural openness",
+    "Startup mindset (build carefully, ship fast)"
+  ],
+  "keywords": [
+    "AI-agentic development",
+    "Claude Code",
+    "CI/CD pipelines",
+    "testing strategies",
+    "developer tooling",
+    "remote-first",
+    "profitable startup",
+    "technical leadership",
+    "equity participation"
+  ],
+  "summary": "Lead Web Engineer role at Genki, a profitable 25-person remote startup building health insurance for digital nomads. The role requires end-to-end ownership of web technical direction, starting as the sole web engineer with team growth expected. Candidates must have production web application experience, cross-project infrastructure expertise, AI-agentic development proficiency (Claude Code/Codex), and the ability to enable non-engineers to safely ship software. Current stack includes TypeScript, React, Astro, Vite, GraphQL, Cloudflare, and Railway. Compensation up to 10,000 EUR/month with equity.",
+  "prioritySignals": [
+    {
+      "signal": "AI-agentic development proficiency required",
+      "importance": 10,
+      "reason": "Explicitly stated as core requirement; must use Claude Code or similar daily and know how to steer AI agents effectively"
+    },
+    {
+      "signal": "End-to-end production web application experience",
+      "importance": 10,
+      "reason": "Must have shipped production apps from static sites to complex SPAs and understand real-world problems"
+    },
+    {
+      "signal": "Cross-project infrastructure expertise",
+      "importance": 9,
+      "reason": "Need shared libraries, CI/CD, monorepo, deployment automation experience—not just solo development"
+    },
+    {
+      "signal": "Technical leadership and team-building capability",
+      "importance": 9,
+      "reason": "Starting as sole web engineer with team growing around; must own technical direction and mentor"
+    },
+    {
+      "signal": "Web security and performance knowledge",
+      "importance": 8,
+      "reason": "Health insurance domain requires strong security; production systems mindset is essential"
+    },
+    {
+      "signal": "Systems thinking and architectural experience",
+      "importance": 8,
+      "reason": "Must unify organically grown codebase and build foundation; includes enabling non-engineers to contribute"
+    },
+    {
+      "signal": "Async-first remote work capability",
+      "importance": 7,
+      "reason": "Fully remote team across Europe and Southeast Asia; needs clear written communication without excessive meetings"
+    }
+  ]
+}

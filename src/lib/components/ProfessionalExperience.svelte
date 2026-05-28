@@ -9,7 +9,14 @@
 	{#each data['professionalExperience'] as e}
 		<h4 class={styles.experienceHeader}>
 			<strong class={styles.experienceHeaderCompany}>{e.company}</strong><br />
-			<span class={styles.experienceHeaderDesc}>{e.role} · {e.startYear} - {e.endYear}</span>
+			<span class={styles.experienceHeaderDesc}
+				>{e.role} ·
+				{#if e.start === e.end}
+					{e.end}
+				{:else}
+					{e.start} - {e.end}
+				{/if}</span
+			>
 		</h4>
 		<div class={styles.roleContainer}>
 			<ul class={styles.highlights}>
@@ -17,7 +24,7 @@
 					<li>{h}</li>
 				{/each}
 			</ul>
-			<p>Technologies: {e.technologies.join(", ")}</p>
+			<p>Technologies: {e.technologies.join(', ')}</p>
 		</div>
 	{/each}
 </section>

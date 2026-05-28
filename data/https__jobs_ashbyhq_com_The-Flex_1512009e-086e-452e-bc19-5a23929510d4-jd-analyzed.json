@@ -1,0 +1,94 @@
+{
+  "jobTitle": "Founding Engineer",
+  "seniority": "Founding",
+  "companyType": "PropTech/Real Estate Startup",
+  "coreSkills": [
+    "Full-stack Development",
+    "Backend Engineering",
+    "API Design",
+    "Cloud Infrastructure (AWS)",
+    "Event-Driven Architecture",
+    "Automation Pipelines",
+    "Production Systems"
+  ],
+  "secondarySkills": [
+    "Frontend Development (React)",
+    "Monitoring & Observability",
+    "System Architecture",
+    "Integration Development",
+    "DevOps Practices"
+  ],
+  "leadershipRequirements": [
+    "Ownership mindset — treats product like own",
+    "Technical DNA setter — establish engineering standards",
+    "Architectural decision-making authority",
+    "Culture champion for quality and execution"
+  ],
+  "domainKnowledge": [
+    "Short-term Rental Industry",
+    "Booking Systems",
+    "Payment Processing",
+    "Property Management",
+    "Smart Access/Keyless Entry",
+    "Pricing Intelligence",
+    "Real-time Synchronization"
+  ],
+  "softSkills": [
+    "Ambiguity tolerance",
+    "Bias toward shipping",
+    "Rapid execution",
+    "Problem-solving orientation",
+    "High ownership commitment",
+    "Cross-functional collaboration"
+  ],
+  "keywords": [
+    "Founding Engineer",
+    "Full-stack",
+    "FastAPI",
+    "React",
+    "AWS",
+    "Event-driven",
+    "Automation",
+    "Integrations",
+    "Remote-first",
+    "Startup"
+  ],
+  "summary": "Founding Engineer role at The Flex, a remote-first PropTech startup building the operating system for modern renting. The company integrates with Airbnb, Stripe, Hostaway, and Twilio on their Base360.ai-powered platform. This high-ownership role involves building core systems from zero (bookings, payments, availability, guest experience), owning the full stack, and establishing technical foundations. Requires strong full-stack or backend-heavy experience, AWS/FastAPI/React proficiency, and an ownership-first mindset.",
+  "prioritySignals": [
+    {
+      "signal": "Founding-level ownership and decision-making authority",
+      "importance": 10,
+      "reason": "Core differentiator of role — engineers make architectural decisions that shape company for years, not just implement features."
+    },
+    {
+      "signal": "Full-stack or backend-heavy production experience",
+      "importance": 9,
+      "reason": "Explicit requirement to build across web apps, APIs, and cloud infrastructure with comfort across the stack."
+    },
+    {
+      "signal": "FastAPI and AWS proficiency",
+      "importance": 9,
+      "reason": "Specific technology stack mentioned as preferred — FastAPI (backend), React (frontend), AWS (infrastructure)."
+    },
+    {
+      "signal": "Bias toward shipping over perfection",
+      "importance": 8,
+      "reason": "Cultural fit signal — company values speed and pragmatism over lengthy planning processes."
+    },
+    {
+      "signal": "High ambiguity tolerance and changing requirements",
+      "importance": 8,
+      "reason": "Role operates in dynamic startup environment with evolving requirements — comfort with uncertainty is essential."
+    },
+    {
+      "signal": "Integration experience (Airbnb, Stripe, Hostaway, Twilio)",
+      "importance": 7,
+      "reason": "Specific platform integrations mentioned — real-world API integration skills needed, though not explicitly required."
+    },
+    {
+      "signal": "Event-driven architecture and automation experience",
+      "importance": 7,
+      "reason": "Core technical requirement — automating manual business processes using event-driven workflows from day one."
+    }
+  ]
+}

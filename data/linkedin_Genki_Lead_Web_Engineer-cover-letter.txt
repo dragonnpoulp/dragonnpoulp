@@ -1,0 +1,7 @@
+I'm drawn to the Lead Web Engineer role at Genki because it combines technical ownership with the opportunity to build a web engineering practice from the ground up. My background aligns well with this mission.
+
+Currently, I lead a cross-functional team of 6 engineers at Carousell, where I've driven platform architecture decisions and mentored engineers on TypeScript and Next.js best practices. I previously owned the inventory-sync backend platform integrating Carousell sellers with Shopify—end-to-end ownership of a production system serving real users.
+
+Before moving into leadership, I architected frontend systems at SoBanHang using Next.js and worked extensively with GraphQL, Node.js, and MongoDB across multiple companies. I also built internal frameworks at FPT that accelerated development across teams—a foundation I'm eager to bring to shared component libraries and cross-project infrastructure at Genki.
+
+I'm ready to own technical direction, enable non-engineers to ship safely, and establish the guardrails that let a small team move fast. I'd welcome a conversation about building Genki's web engineering foundation together.

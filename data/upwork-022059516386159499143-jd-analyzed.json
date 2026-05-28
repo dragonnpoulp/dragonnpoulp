@@ -1,99 +1,98 @@
 {
   "jobTitle": "Senior Full-Stack Developer",
   "seniority": "Senior",
-  "companyType": "Construction Technology",
+  "companyType": "Construction Technology / SaaS Product Company",
   "coreSkills": [
-    "Node.js",
-    "NestJS",
-    "Express",
+    "Node.js (Express / NestJS)",
+    "PostgreSQL / MySQL",
     "Sequelize ORM",
-    "PostgreSQL",
-    "MySQL",
     "Vue.js",
-    "PM2"
+    "Redis",
+    "PM2 process management",
+    "Linux server administration",
+    "Server-side pagination (LIMIT/OFFSET)",
+    "Query optimization (INNER JOIN / LEFT OUTER JOIN)",
+    "Memory leak & OOM troubleshooting",
+    "Background job processing"
   ],
   "secondarySkills": [
-    "Redis",
-    "Server-side pagination",
-    "Lazy loading",
-    "Linux server administration",
-    "Background workers",
-    "API endpoint optimization"
+    "Autocomplete search endpoint implementation",
+    "Background worker configuration (Bull, Kue)",
+    "Performance profiling and monitoring",
+    "Caching strategies with Redis"
   ],
   "leadershipRequirements": [],
   "domainKnowledge": [
-    "Construction technology tools",
-    "Estimating workflows",
-    "Architectural plan assets",
-    "E-commerce/Product catalogs"
+    "Construction technology tools and estimating workflows",
+    "Architectural plan asset management",
+    "Product catalog data models (tbl_products, tbl_product_variants, tbl_assemblies)",
+    "Data-heavy modules and eager-loading patterns"
   ],
   "softSkills": [
-    "Direct terminal work capability",
-    "Self-directed execution",
-    "Memory troubleshooting",
-    "Performance optimization"
+    "Strong debugging and problem-solving mindset",
+    "Clear communication and ability to explain technical choices",
+    "Self‑directed with effective time management",
+    "Ability to deliver a concise, high‑impact solution within a short timeline",
+    "Comfortable working directly via terminal on Linux environments"
   ],
   "keywords": [
+    "Senior Full-Stack Developer",
     "Node.js",
     "NestJS",
     "Express",
-    "Sequelize",
     "PostgreSQL",
     "MySQL",
+    "Sequelize ORM",
     "Vue.js",
     "Redis",
     "PM2",
     "Linux",
-    "V8 heap",
-    "OOM errors",
-    "Memory leaks",
     "Server-side pagination",
-    "Lazy loading",
+    "Memory leak",
+    "OOM",
+    "Query optimization",
     "Autocomplete search",
-    "Performance optimization",
-    "LIMIT OFFSET"
+    "Construction technology",
+    "Estimating workflows",
+    "Product catalog",
+    "Short‑term contract"
   ],
-  "summary": "Contract engagement to resolve critical V8 heap out-of-memory crashes in a construction technology application by refactoring eager-loading queries to paginated endpoints, implementing autocomplete search functionality, and updating Vue.js frontend components to consume new APIs. Short-term 16-20 hour project with isolated problem files ready on Day 1.",
+  "summary": "A short‑term contract for an experienced Senior Full‑Stack Developer to resolve critical backend performance and memory bottlenecks in a construction‑technology SaaS application. The work involves refactoring eager‑loading queries, implementing server‑side pagination, building lightweight autocomplete search endpoints, updating Vue.js UI components, and tuning Node.js/V8 memory limits under PM2 on Linux. Strong proficiency in Node.js (Express/NestJS), relational databases (PostgreSQL/MySQL via Sequelize), Vue.js, Redis, and Linux/PM2 is essential.",
   "prioritySignals": [
     {
-      "signal": "V8 heap/Memory leak troubleshooting experience",
+      "signal": "Proven experience fixing Node.js/V8 heap out‑of‑memory crashes and memory leaks",
       "importance": 10,
-      "reason": "Core issue involves active OOM crashes from unpaginated eager-loading queries; must track down memory issues via logs"
+      "reason": "The primary pain point is OOM crashes caused by unbounded eager loading; fixing these directly addresses the contract’s core objective."
     },
     {
-      "signal": "Node.js backend development (NestJS/Express)",
+      "signal": "Deep expertise in relational database query optimization (PostgreSQL/MySQL, Sequelize)",
       "importance": 10,
-      "reason": "Backend stack is explicitly Node.js based; strong experience required for refactoring"
+      "reason": "Root cause identified in INNER JOIN/LEFT OUTER JOIN queries on tbl_products, tbl_product_variants, and tbl_assemblies; optimizing these is central to the work."
     },
     {
-      "signal": "Sequelize ORM with PostgreSQL/MySQL",
+      "signal": "Strong Node.js (NestJS/Express) backend development skills",
       "importance": 9,
-      "reason": "Database queries involve INNER JOIN/LEFT OUTER JOIN across tbl_products, tbl_product_variants, tbl_assemblies"
+      "reason": "All refactoring, pagination, and API creation must be implemented in the backend Node environment."
     },
     {
-      "signal": "Vue.js frontend skills",
-      "importance": 9,
-      "reason": "Must update dropdown selectors and estimation tables to consume paginated APIs asynchronously"
-    },
-    {
-      "signal": "Server-side pagination implementation",
-      "importance": 9,
-      "reason": "Core objective is implementing LIMIT/OFFSET pagination capped at 50 items"
-    },
-    {
-      "signal": "PM2 and Linux server administration",
+      "signal": "Vue.js frontend experience with async state management",
       "importance": 8,
-      "reason": "Must adjust memory limits and process execution options on Linux environment"
+      "reason": "Frontend dropdowns and tables must be updated to consume the new paginated APIs and handle real‑time user input."
     },
     {
-      "signal": "Redis experience",
-      "importance": 8,
-      "reason": "Listed as technical requirement for background workers/configuration management"
-    },
-    {
-      "signal": "Search/filtering development",
+      "signal": "Redis & background workers knowledge",
       "importance": 7,
-      "reason": "Must build high-performance autocomplete search endpoints for catalog filtering"
+      "reason": "Redis caching and background job handling are mentioned as part of the stack, supporting overall performance improvements."
+    },
+    {
+      "signal": "PM2 and Linux server experience",
+      "importance": 8,
+      "reason": "Process memory limits and execution options are managed via PM2 on Linux; hands‑on terminal work is required."
+    },
+    {
+      "signal": "Ability to deliver a concise, high‑impact solution within 2‑3 days (16‑20 hours)",
+      "importance": 9,
+      "reason": "The contract is short‑term; quick, focused execution is critical for meeting client expectations."
     }
   ]
 }

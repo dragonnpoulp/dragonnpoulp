@@ -1,0 +1,52 @@
+Description
+About CoderPush
+CoderPush is a remote-first technology company that partners with startups and global businesses to build scalable, high quality software products. We focus on long-term collaboration, clear communication, and delivering real impact through strong engineering and product thinking.
+Please find more at: https://coderpush.com/
+
+About the Role
+Our fast-growing remote working company is seeking a highly talented and experienced Senior Full-stack Engineer (Required exp in ReactJS/Java/GraphQL)to join our team. In this role, you will be responsible for leading the development of software applications and systems that meet the needs of our clients.
+
+As a Senior Fullstack Engineer (FE focus), you will be responsible for:
+
+    Provide technical leadership in the design, integration, implementation, and transition of enterprise SaaS human services system
+    Flexible design architectural approach to deliver configurability along the data creation, integrations, workflows, notifications, and data persistence
+    Understand and synthesize integration requirements, and develop recommendations based on business objectives, product roadmap, solution architecture and technical considerations
+    Contribute to the development of our platform functionality using state-of-the-art frameworks and tools Specify and troubleshoot API integrations in an ecosystem of multiple systems
+    Work closely with client stakeholders, partners, product managers, creative designers, platform architect, and other software engineers
+    Constantly learn and use leading-edge technologies
+    Implement a system that will address the needs of vulnerable populations
+    Contribute to the highest security, extensibility, reusability and testing standards in system architecture and software, interface, components, data structures, and algorithms specifications.
+
+
+The ideal candidate will have:
+
+    8+ years of software engineering experience.
+    Proven, deep hands-on experience with ReactJS, TypeScript in production environments (must have)
+    Proficient in Java for multi-tier web app development (must have)
+    Proven track record of building and consuming GraphQL APIs, including schema design and client integration
+    Strong proficiency in English communication.
+    Skilled in building microservices and adhering to OpenAPI standards.
+    Experienced with ElasticSearch, PostgreSQL, Redis, S3, Redshift, Apache Kafka, Lambda, and EMR
+    Led major IT application implementations.
+    Strong problem-solving skills and the ability to identify roadblocks.
+    Familiar with Agile, Git, IT security architecture, and testing methodologies.
+    Knowledgeable in AWS/cloud deployment and scaling.
+    Proficient in REST APIs, GraphQL, SQL, NoSQL, and web dev concepts.
+    Emphasize clean, efficient, and documented code.
+    Practitioner of TDD, CI/CD, and time management.
+
+
+Working time: Must work with US clients from 8-11 PM or 9 PM-12 AM Vietnam time-zone (3 hours/day, can be flexible with the rest 5 hours)
+
+👉 Our Benefit Packages:
+
+    Attractive salary range and we are open to negotiate if you're a strong fit.
+    Hybrid/Remote-friendly culture, work where you grow best!
+    Flexible hours, async teamwork (we respect your focus time)
+    Work equipment support
+    Allowance for Certification & Skill Development
+    Year-end bonus & performance-based rewards
+    22 paid leaves from your 5th year - take a full month off
+    Career growth with personal coaching sessions
+    Open, collaborative team culture - no micromanagement, only trust
+    Tools & AI-powered workflows that make remote work easier

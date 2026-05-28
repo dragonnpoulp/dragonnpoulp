@@ -1,0 +1,108 @@
+{
+  "jobTitle": "Senior Full-stack Engineer",
+  "seniority": "Senior (8+ years required)",
+  "companyType": "Remote-first technology company (CoderPush) - partners with startups and global businesses",
+  "coreSkills": [
+    "ReactJS",
+    "TypeScript",
+    "Java",
+    "GraphQL",
+    "Microservices",
+    "OpenAPI",
+    "AWS"
+  ],
+  "secondarySkills": [
+    "REST APIs",
+    "SQL",
+    "NoSQL",
+    "PostgreSQL",
+    "ElasticSearch",
+    "Redis",
+    "S3",
+    "Redshift",
+    "Apache Kafka",
+    "Lambda",
+    "EMR",
+    "Agile",
+    "Git",
+    "CI/CD",
+    "TDD"
+  ],
+  "leadershipRequirements": [
+    "Technical leadership in design, integration, implementation, and transition",
+    "Lead major IT application implementations",
+    "Work with stakeholders, product managers, architects, and creative designers",
+    "Define architectural approach for configurability"
+  ],
+  "domainKnowledge": [
+    "Enterprise SaaS human services systems",
+    "Integration requirements and solution architecture",
+    "Multi-tier web application development",
+    "IT security architecture",
+    "Testing methodologies",
+    "Cloud deployment and scaling"
+  ],
+  "softSkills": [
+    "Strong English communication (required)",
+    "Problem-solving skills",
+    "Time management",
+    "Cross-functional collaboration",
+    "Clean, efficient, documented code practices"
+  ],
+  "keywords": [
+    "ReactJS",
+    "Java",
+    "GraphQL",
+    "TypeScript",
+    "Full-stack",
+    "Senior Engineer",
+    "Remote",
+    "SaaS",
+    "Microservices",
+    "AWS",
+    "Enterprise"
+  ],
+  "summary": "CoderPush seeks a Senior Full-stack Engineer (FE focus) with 8+ years experience to lead development of enterprise SaaS human services systems. Must have ReactJS, TypeScript, Java, and GraphQL expertise. Role involves technical leadership, architectural design, API integrations, and collaboration with US clients. Remote-first with 3-hour daily overlap required.",
+  "prioritySignals": [
+    {
+      "signal": "ReactJS and TypeScript production experience",
+      "importance": 9,
+      "reason": "Explicitly stated as must-have requirements with deep hands-on proficiency required"
+    },
+    {
+      "signal": "Java for multi-tier web application development",
+      "importance": 9,
+      "reason": "Must-have requirement for backend development alongside ReactJS"
+    },
+    {
+      "signal": "GraphQL API expertise (schema design and client integration)",
+      "importance": 9,
+      "reason": "Must-have requirement with proven track record expected"
+    },
+    {
+      "signal": "8+ years of software engineering experience",
+      "importance": 8,
+      "reason": "Required seniority level for this position"
+    },
+    {
+      "signal": "Microservices architecture experience",
+      "importance": 8,
+      "reason": "Key technical requirement with OpenAPI standards"
+    },
+    {
+      "signal": "AWS/cloud deployment and scaling knowledge",
+      "importance": 7,
+      "reason": "Required for cloud infrastructure; exposure to services like Lambda, EMR, S3"
+    },
+    {
+      "signal": "Strong English communication skills",
+      "importance": 7,
+      "reason": "Explicitly required for client collaboration; must work with US clients"
+    },
+    {
+      "signal": "Database experience (PostgreSQL, ElasticSearch, Redis, Redshift)",
+      "importance": 7,
+      "reason": "Technical stack requirements for data persistence and search"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+ABOUT CLIENT
+The building and construction industry enriches lives by constructing homes, public buildings, and communities. In a sense, it could be said to "build happiness." We want to use the power of technology to support these people who build happiness. That's what genuinely inspires us.
+On construction sites the situation changes from day to day. It's a race against time: designs and specifications change, leading to delays in documentation and the start of construction; there's information to be shared via phone and fax; and people must travel to check on-site progress.
+We create a little extra mental space within the frantic construction site environment. It allows personnel to strive for higher quality, hone their techniques, accumulate knowledge, and deepen their bonds with their colleagues and their families. They can praise each other's work and do more work they themselves can be proud of.
+However much technology may advance, building and construction are creative jobs carried out by human hands: that always has been and always will be the case. These are the hands that build happiness to make people happy.
+We at ANDPAD facilitate that process
+Value
+Professional: We maintain professional attitudes and skills.
+Mission Driven: We aim to be valued by our users and customers and co-create with them as we fulfill our responsibility to help build the future of society and the construction industry.
+Reality: We listen to the opinions of those working in the construction industry, learn, and continuously resolve issues. Regardless of our position, we engage with the delivery of solutions, respecting the wishes of people we had actual contact with.
+Customer Success: As a SaaS company in the building and construction industry, we continuously grow together with our team members and customers through relationships founded on mutual trust. We're willing to make the effort to create "chains of trust."
+Technology First: Having built up trust from the industry through our product development capability, we constantly try out and explore new technologies. We never compromise on our product.
+Love ANDPAD: We really care about the ANDPAD service we're developing. We communicate our perspective to users and customers so that all our stakeholders will help spread the word.
+JOB DESCRIPTION
+As our business continues to grow, Company is looking for a Golang Engineer who can join our team and develop the application in cooperation with the product manager. Working in the form of Squad, a small team can quickly and consistently engage in everything from design to development, testing, and operation. Also, there are a lot of opportunities to work with new languages ​​and FWs other than the main language in an international environment.
+Job Scope
+Design and implementation function of the product in charge using Golang.
+Refactoring existing products for microservices.
+Requirements definition and specification formulation in collaboration with product managers and designers
+Architecture design based on requirements, middleware selection
+Measurement of effects for quality improvement and implementation of service improvement measures
+Development environment
+Infrastructure: AWS, GCP
+CI/CD：Circle CI / Codebuild
+DB: Amazon Aurora (MySQL compatible edition), Elasticsearch, DynamoDB
+Configuration management: Ansible
+Deploy / Build: CodePipeline, CodeBuild, CircleCI, GitHub Actions
+IaC: Packer, Terraform
+Monitoring: Datadog, bugsnag
+Others: swagger, Docker, ZenHub, Figma, Slack/Jira
+JOB REQUIREMENT
+Must have:
+Empathy for Company's mission and values
+5+ years of experience in developing and operating Web services using Golang, AWS, gRPC
+Experience as a technical lead throughout the full project development lifecycle
+Experience in developing and operating Web applications using frameworks
+Experience in schema design such as RDBMS and KVS and design of optimal query
+Have knowledge of Web application security
+Experience Test code implementation (Unit Test)
+Good at English communication
+Nice to have:
+Experience of discovering problems from logs and solving problems
+Experience in developing systems using container technologies such as Docker and Kubernetes
+Experience in designing architecture based on application requirements and selecting middleware
+Experience of publishing and contributing OSS
+External technical output experience (writing, technical blog, stage, etc.)
+WHAT'S ON OFFER
+Competitive salary package, including full insurance coverage
+Annual performance review: twice/ year
+13th-month salary Bonus
+Hybrid working
+18 days of leave: 12 days of annual leave, 6 days of New Year's Leave
+Premium Healthcare Insurance Package starting from day one
+Annual Health Check-up
+Excellent career development opportunities, with exposure to and experience in the latest technologies
+Patents and Inventions bonus
+Company trip, Year-End Party, Gifts for Tet/ Holidays
+MacBook Pro/ Laptop is provided

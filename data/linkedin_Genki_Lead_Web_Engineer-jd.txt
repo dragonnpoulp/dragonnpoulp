@@ -1,0 +1,63 @@
+ About the job
+
+🌱 Genki means "healthy, energetic, and full of spirit". That's us.
+
+🚀 We're a fully remote, profitable startup of about 25 people, five years in and growing steadily.
+
+🌍 We build tailored health insurance for long-term travelers like digital nomads, serving over 75,000 people in 200 countries.
+
+💚 Our vision is to help them stay healthy wherever they go, far beyond insurance.
+
+We're hiring a Lead Web Engineer to own the technical direction of all our internal and public web projects: unify what's grown organically, and build the foundation for what comes next. You'll start as the sole web engineer, with the team growing around you over time. You'll work alongside two existing non-web developers, report directly to the CEO, and collaborate closely with our designer to shape what we build and how it looks.
+
+We need someone who builds carefully and ships fast, and sees no contradiction between the two. Someone who has seen enough production systems to know what matters (security, reliability, maintainability) and who uses AI agents to build better software, faster.
+
+Part of the job is also building a setup where team members from all departments can build software themselves, with standardized review, security, and deployment so that shipping stays safe as more people contribute.
+
+Show us what you've got. Send us a link to your GitHub profile, code samples, prompts, a vibe-coded job application, or whatever expresses your experience best!
+
+Requirements
+
+Experience
+
+    You've built and shipped production web applications end-to-end, from static sites to complex SPAs, and you know where the real problems hide in each
+    You've made major architectural bets and stayed long enough to learn whether they were right
+    Proven experience with cross-project infrastructure: shared component libraries, CI/CD pipelines, monorepo setups, deployment automation
+    Strong understanding of web security, performance optimization, and browser capabilities
+    You have a sharp eye for detail, from pixel-perfect implementation to clean, consistent code
+    You use AI-agentic development tools daily (Claude Code, Codex, or similar) and know how to steer them effectively, including when to trust the output
+    You've set up and maintained CI/CD, testing strategies, and developer tooling for teams, not just yourself
+
+Our current tech stack
+
+    Languages & frameworks: TypeScript, React, React Router, Next.js (being phased out), SCSS Modules, Astro
+    Bundling: Vite
+    Design: Figma
+    AI-agentic development: Claude Code with custom plugin (open to exploring alternatives)
+    Infrastructure: Cloudflare, Railway
+    APIs: GraphQL
+
+Working style
+
+    You care deeply about user experience. You pay close attention to the details and take pride in getting them right
+    You think in systems, not screens. You care about how projects share infrastructure, how deployments stay safe, and how other developers will understand what you built
+    You're excited about enabling non-engineers to ship software and know how to make that safe through good tooling and guardrails
+    You're comfortable making decisions when not all the information is there yet
+    You thrive in a fully remote, async-first team and know how to communicate clearly without meetings for everything
+    You're as open to different ideas, opinions, and to people with different cultures, backgrounds, and interests as we are
+
+Benefits
+
+💰 Up to 10,000 EUR/month (depending on experience) with employee equity participation through a vesting program
+
+🏝 Fully remote, from anywhere in the world & live as a digital nomad if you want to (the country list above are just examples)
+
+🕗 Flexible hours, startup atmosphere
+
+🌍 Most of the team is in Europe and Southeast Asia, with a few hours of daily overlap around German business hours
+
+💻 Company-issued and managed MacBook, plus a desk in your favorite co-working space
+
+✈️ 25 days paid annual leave
+
+🤝 Regular team off-sites to connect in person
