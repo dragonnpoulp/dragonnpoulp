@@ -1,64 +1,65 @@
 {
   "professionalSummary": {
-    "intro": "Software engineering leader with 15+ years of experience building scalable backend systems and leading cross-functional teams. Currently seeking to leverage deep Golang expertise, microservices architecture skills, and AWS proficiency to drive technical excellence at ANDPAD.",
+    "intro": "Senior software engineer with 15+ years of experience building scalable backend systems and leading cross-functional engineering teams. Currently serving as Engineering Manager at Carousell, where I lead Golang-based microservices development for e-commerce platforms serving millions of users.",
     "keyStrengths": [
-      "5+ years of Golang expertise building production-grade backend services, APIs, and event-driven systems",
-      "Strong technical leadership experience leading squads through full project lifecycle from architecture to deployment",
-      "Deep experience designing microservices architectures with gRPC, REST APIs, and distributed systems patterns",
-      "Proficient in AWS cloud infrastructure with Aurora MySQL, DynamoDB, and container orchestration (ECS/EKS)",
-      "Track record of building high-performance teams and mentoring engineers on best practices"
+      "Building production microservices and event-driven architectures for high-traffic platforms",
+      "Technical lead experience across full project lifecycle: architecture design, requirements definition, implementation, and deployment",
+      "Strong backend engineering background with AWS/GCP cloud infrastructure, gRPC APIs, and distributed systems design",
+      "Proven track record in RDBMS and KVS schema design, having architected data models for enterprise and e-commerce platforms",
+      "Experienced in team leadership, cross-functional collaboration with product managers and designers, and mentoring engineers"
     ]
   },
   "careerHighlights": [
-    "Architected and led development of microservices-based trust and safety platform processing 100K+ daily events using Golang and event-driven patterns",
-    "Migrated legacy inventory-sync services into Carousell's microservices infrastructure, reducing operational overhead by 40%",
-    "Designed and implemented scalable backend APIs integrating Carousell with Shopify for multi-platform seller management",
-    "Led cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android disciplines",
-    "Built FPT.SmartCore enterprise framework enabling rapid development across web and desktop applications for financial institutions"
+    "Built and led Golang microservices for Carousell's inventory-sync platform, processing 100K+ daily inventory updates between merchants and Shopify",
+    "Architected event-driven trust and safety systems for fraud detection, handling high-volume transaction processing at scale",
+    "Led migration of legacy Python services to Golang microservices, improving system reliability and maintainability",
+    "Managed cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android for Carousell's core platform",
+    "Designed and implemented scalable backend architectures for e-commerce platforms serving millions of users across Southeast Asia",
+    "Technical Architect for SoBanHang's frontend systems, enabling rapid growth in Vietnam's competitive e-commerce market"
   ],
   "coreSkills": {
     "frontend": [
       "Next.js",
-      "TypeScript",
-      "React.js"
+      "React.js",
+      "TypeScript"
     ],
     "backend": [
       "Golang",
       "Python",
       "Node.js",
       "gRPC",
-      "REST APIs",
-      "GraphQL"
+      "GraphQL",
+      "REST APIs"
     ],
     "databasesAndInfrastructure": [
       "AWS",
-      "Aurora MySQL",
+      "GCP",
       "DynamoDB",
-      "PostgreSQL",
+      "Aurora MySQL",
       "MongoDB",
-      "Redis",
-      "Elasticsearch",
+      "Oracle",
       "Docker",
       "Kubernetes",
       "Terraform"
     ],
     "engineering": [
-      "Microservices Architecture",
-      "Event-driven Architecture",
-      "System Migration",
-      "API Design",
-      "CI/CD Pipelines",
-      "Datadog Monitoring",
-      "Unit Testing",
-      "Web Application Security"
+      "Microservices architecture",
+      "Event-driven architecture",
+      "RDBMS schema design",
+      "KVS design",
+      "Web application security",
+      "Unit testing",
+      "CI/CD",
+      "System migration",
+      "API integration"
     ],
     "leadership": [
-      "Technical Architecture",
-      "Squad Leadership",
-      "Team Management",
-      "Cross-functional Collaboration",
-      "Mentorship",
-      "Agile/Scrum"
+      "Technical leadership",
+      "Architecture design",
+      "Requirements definition",
+      "Team management",
+      "Cross-functional collaboration",
+      "Mentorship"
     ]
   },
   "professionalExperience": [
@@ -66,15 +67,14 @@
       "role": "Engineering Manager",
       "company": "Carousell",
       "location": "Singapore",
-      "start": "Jan. 2024",
+      "start": "2024",
       "end": "Nov. 2025",
       "responsibilities": [
-        "Managed cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android disciplines",
-        "Led development of Carousell platform features including order post-processing workflows and trust & safety initiatives",
-        "Built backend services using Golang for fraud prevention and malicious behavior detection systems",
-        "Implemented microservice and event-driven architectures for scalable trust-processing systems handling 100K+ daily events",
-        "Maintained legacy Python services while driving migration to Golang microservices",
-        "Collaborated with product managers and designers to define technical requirements and roadmap priorities"
+        "Managed cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android, delivering platform features for Carousell's core marketplace",
+        "Led development of order post-processing workflows and Trust & Safety initiatives for fraud prevention and malicious behavior detection",
+        "Built backend services using Golang, implementing microservice and event-driven architectures for scalable trust-processing systems",
+        "Maintained legacy Python services while leading migration to modern Golang-based infrastructure",
+        "Collaborated with product managers and designers to define requirements and drive feature delivery"
       ],
       "technologies": [
         "Golang",
@@ -82,8 +82,7 @@
         "Microservices",
         "Event-driven Architecture",
         "AWS",
-        "Datadog",
-        "CI/CD",
+        "DynamoDB",
         "Trust & Safety",
         "Fraud Detection"
       ]
@@ -93,20 +92,20 @@
       "company": "Carousell",
       "location": "Singapore",
       "start": "2022",
-      "end": "Dec. 2023",
+      "end": "2024",
       "responsibilities": [
-        "Took ownership of inventory-sync backend platform integrating Carousell sellers with Shopify",
-        "Led migration of inventory-sync services into Carousell infrastructure, reducing operational overhead",
-        "Published and integrated Carousell Shopify App as frontend interface for inventory-sync capabilities",
-        "Maintained inventory synchronization between Carousell and merchants' Shopify stores"
+        "Took ownership of the inventory-sync backend platform integrating Carousell sellers with Shopify",
+        "Led migration of inventory-sync services into Carousell infrastructure, ensuring seamless data synchronization",
+        "Published and integrated the Carousell Shopify App as the frontend interface for inventory-sync capabilities",
+        "Developed scalable backend services in Node.js for inventory synchronization between Carousell and merchants' Shopify stores"
       ],
       "technologies": [
         "Node.js",
-        "Shopify API",
-        "AWS",
+        "Shopify",
         "API Integration",
         "System Migration",
-        "E-commerce Infrastructure"
+        "E-commerce Infrastructure",
+        "AWS"
       ]
     },
     {
@@ -116,10 +115,9 @@
       "start": "Jun. 2021",
       "end": "2022",
       "responsibilities": [
-        "Led frontend engineering for OxStreet.com sneaker marketplace acquired by Carousell",
-        "Mentored engineers on type-safe development practices using Next.js and TypeScript",
-        "Balanced engineering quality with strategic product delivery priorities",
-        "Developed marketplace features for buyers and sellers"
+        "Led frontend engineering efforts for OxStreet.com, a sneaker marketplace acquired by Carousell",
+        "Mentored engineers on type-safe development practices in Next.js and TypeScript",
+        "Balanced engineering quality with strategic product delivery priorities in fast-paced marketplace environment"
       ],
       "technologies": [
         "Next.js",
@@ -136,9 +134,8 @@
       "start": "2021",
       "end": "2021",
       "responsibilities": [
-        "Led frontend engineering team to build seamless user experience for online buyers and seller POS workflows",
-        "Architected and developed frontend systems using Next.js for Vietnam's growing e-commerce market",
-        "Focused on scalable frontend architecture and performance optimization"
+        "Led the frontend engineering team to build fast and smooth user experience for online buyers and seller POS workflows",
+        "Architected scalable frontend systems using Next.js, contributing to rapid platform growth in Vietnam's e-commerce market"
       ],
       "technologies": [
         "Next.js",
@@ -150,66 +147,14 @@
     },
     {
       "role": "Senior Software Engineer",
-      "company": "FlavorWiki",
-      "location": "Germany",
-      "start": "May 2020",
-      "end": "Nov. 2020",
-      "responsibilities": [
-        "Developed food and beverage research platform for consumer data collection and analytical reports",
-        "Built full-stack features using GraphQL, Node.js, MongoDB, and React.js"
-      ],
-      "technologies": [
-        "GraphQL",
-        "Apollo GraphQL",
-        "Node.js",
-        "MongoDB",
-        "React.js"
-      ]
-    },
-    {
-      "role": "Full-stack Software Engineer",
-      "company": "NFQ Asia",
-      "location": "Vietnam",
-      "start": "2018",
-      "end": "Jun. 2019",
-      "responsibilities": [
-        "Stabilized EXO Connect travel platform after previous engineering team departure",
-        "Developed and maintained full-stack application features with GraphQL APIs and MongoDB"
-      ],
-      "technologies": [
-        "GraphQL",
-        "Node.js",
-        "MongoDB"
-      ]
-    },
-    {
-      "role": "Technical Leader",
-      "company": "Datamart",
-      "location": "Vietnam",
-      "start": "2017",
-      "end": "2018",
-      "responsibilities": [
-        "Led technical development for Powersell.net e-commerce platform",
-        "Developed backend and frontend systems with search and indexing capabilities using Solr"
-      ],
-      "technologies": [
-        "Node.js",
-        "React.js",
-        "Solr",
-        "Technical Leadership"
-      ]
-    },
-    {
-      "role": "Senior Software Engineer",
       "company": "FPT Information System",
       "location": "Vietnam",
       "start": "2012",
       "end": "Jun. 2017",
       "responsibilities": [
-        "Major contributor to FPT.SmartCore enterprise backend-to-frontend framework",
-        "Enabled rapid business feature development through metadata and database-driven configuration",
-        "Optimized enterprise business processing using Oracle stored procedures",
-        "Delivered solutions for securities companies, Hanoi Stock Exchange, and State Bank of Vietnam"
+        "Major contributor to FPT.SmartCore, an enterprise backend-to-frontend framework enabling rapid business feature development",
+        "Optimized enterprise business processing using Oracle stored procedures for securities companies and financial institutions",
+        "Delivered solutions for Hanoi Stock Exchange and State Bank of Vietnam"
       ],
       "technologies": [
         ".NET Framework",
@@ -227,12 +172,13 @@
       "end": "2012",
       "responsibilities": [
         "Developed enterprise systems for securities companies including online stock pricing boards and trading platforms",
-        "Built business applications using .NET Framework, Adobe Flex, and Oracle Database"
+        "Built business applications using .NET Framework and Oracle Database"
       ],
       "technologies": [
         ".NET Framework",
         "Adobe Flex",
         "Oracle Database",
+        "Full-stack Development",
         "Enterprise Software"
       ]
     }

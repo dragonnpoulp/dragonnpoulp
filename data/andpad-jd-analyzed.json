@@ -1,130 +1,125 @@
 {
   "jobTitle": "Golang Engineer",
-  "seniority": "Mid to Senior",
-  "companyType": "SaaS (Construction Technology)",
+  "seniority": "Senior",
+  "companyType": "SaaS (Construction Industry)",
   "coreSkills": [
-    "Golang (5+ years)",
+    "Golang",
     "AWS",
     "gRPC",
-    "Web services development",
+    "Web application development",
     "Microservices architecture",
     "RDBMS schema design",
-    "KVS schema design",
+    "KVS (Key-Value Store) design",
     "Web application security",
     "Unit testing"
   ],
   "secondarySkills": [
-    "GCP",
     "Docker",
     "Kubernetes",
+    "CircleCI",
+    "CodeBuild",
+    "GitHub Actions",
     "Terraform",
     "Packer",
     "Ansible",
+    "Datadog",
+    "Bugsnag",
     "Elasticsearch",
     "DynamoDB",
     "Aurora MySQL",
-    "Datadog",
-    "Bugsnag",
-    "CircleCI",
-    "CodeBuild",
-    "CodePipeline",
-    "GitHub Actions",
-    "OSS contribution",
-    "Technical writing"
+    "Swagger/OpenAPI",
+    "Figma",
+    "GCP"
   ],
   "leadershipRequirements": [
     "Technical lead experience throughout full project development lifecycle",
     "Architecture design based on requirements",
     "Middleware selection",
-    "Squad-based collaboration with product managers and designers"
+    "Requirements definition and specification formulation",
+    "Collaboration with product managers and designers"
   ],
   "domainKnowledge": [
-    "SaaS product development",
     "Construction/building industry",
-    "Microservices architecture patterns",
-    "CI/CD pipelines",
-    "Infrastructure as Code"
+    "SaaS product development",
+    "Construction site workflows and challenges"
   ],
   "softSkills": [
-    "Empathy for mission and company values",
-    "English communication (business level)",
+    "English communication (required)",
+    "Empathy for company mission and values",
     "Cross-functional collaboration",
-    "Problem-solving from log analysis",
-    "Quality improvement orientation"
+    "Problem-solving from logs"
   ],
   "keywords": [
-    "golang",
-    "go",
-    "aws",
-    "gcp",
-    "grpc",
+    "Golang",
+    "Go",
+    "AWS",
+    "GCP",
+    "gRPC",
     "microservices",
-    "saas",
-    "docker",
-    "kubernetes",
-    "terraform",
-    "aurora",
-    "elasticsearch",
-    "dynamodb",
-    "datadog",
-    "circleci",
-    "codebuild",
-    "codepipeline",
-    "github actions",
-    "ansible",
-    "packer",
-    "swagger",
-    "figma",
-    "construction tech",
+    "CI/CD",
+    "Docker",
+    "Kubernetes",
+    "Terraform",
+    "IaC",
+    "serverless",
+    "Aurora",
+    "DynamoDB",
+    "Elasticsearch",
+    "technical lead",
     "product development",
-    "full stack"
+    "Squad model"
   ],
-  "summary": "ANDPAD is seeking a Golang Engineer with 5+ years of experience to join their SaaS platform serving the construction industry. The role involves designing and implementing product features, refactoring for microservices, and leading technical architecture decisions. The ideal candidate will have strong AWS and gRPC expertise, experience with database schema design (RDBMS and KVS), and ability to work in cross-functional squads. The company offers hybrid work, competitive benefits including 18 days leave, premium healthcare, and annual performance reviews twice yearly.",
+  "summary": "SaaS company serving the construction industry seeks a Senior Golang Engineer to join their squad-based development team. The role involves designing and implementing product features using Golang, refactoring for microservices architecture, and collaborating with product managers. Requires 5+ years of Golang and AWS experience, technical leadership throughout full project lifecycle, and proficiency in schema design (RDBMS/KVS). Offers hybrid work, competitive salary with 13th-month bonus, and opportunities to work with modern cloud infrastructure on AWS/GCP.",
   "prioritySignals": [
     {
-      "signal": "5+ years Golang with AWS and gRPC experience",
+      "signal": "5+ years Golang development experience",
       "importance": 9,
-      "reason": "Explicitly required technical foundation; forms the core of the role and is non-negotiable for the position"
+      "reason": "Explicit requirement with specific years; primary language for the role"
     },
     {
-      "signal": "Technical lead experience throughout full project lifecycle",
+      "signal": "Technical lead experience",
+      "importance": 9,
+      "reason": "Required for architecture design, middleware selection, and requirements definition responsibilities"
+    },
+    {
+      "signal": "AWS and gRPC experience",
       "importance": 8,
-      "reason": "Demonstrates ability to drive architecture decisions and lead development from conception to operation"
+      "reason": "Core infrastructure stack; AWS listed as primary cloud platform"
     },
     {
-      "signal": "Microservices architecture and containerization",
+      "signal": "Microservices architecture experience",
       "importance": 8,
-      "reason": "Company is actively refactoring products for microservices; Docker/Kubernetes experience is highly valued"
+      "reason": "Explicit job scope includes refactoring existing products for microservices"
     },
     {
-      "signal": "Schema design for RDBMS and KVS",
+      "signal": "RDBMS and KVS schema design",
+      "importance": 8,
+      "reason": "Required technical skill; database expertise needed for Aurora MySQL and DynamoDB"
+    },
+    {
+      "signal": "English communication",
+      "importance": 8,
+      "reason": "Explicit 'good at English communication' requirement"
+    },
+    {
+      "signal": "Full project lifecycle experience",
       "importance": 7,
-      "reason": "Critical for database optimization; Aurora MySQL, Elasticsearch, and DynamoDB are in their tech stack"
+      "reason": "Must have experience from design through testing and operation"
     },
     {
-      "signal": "Infrastructure as Code (Terraform/Packer)",
-      "importance": 7,
-      "reason": "Part of their development environment with explicit IaC tools listed"
-    },
-    {
-      "signal": "English communication skills",
-      "importance": 7,
-      "reason": "International environment mentioned; business-level English is required for cross-team collaboration"
-    },
-    {
-      "signal": "Monitoring and observability (Datadog, Bugsnag)",
+      "signal": "Docker/Kubernetes experience",
       "importance": 6,
-      "reason": "Supports production operations and quality improvement initiatives"
-    },
-    {
-      "signal": "OSS contribution or technical blog",
-      "importance": 5,
-      "reason": "Nice-to-have differentiator showing technical passion and external visibility"
+      "reason": "Nice to have but container technologies are used in development environment"
     },
     {
       "signal": "Web application security knowledge",
       "importance": 7,
-      "reason": "Explicit requirement for building secure web services"
+      "reason": "Required knowledge area for developing secure web applications"
+    },
+    {
+      "signal": "OSS contributions or technical blogging",
+      "importance": 5,
+      "reason": "Nice to have; indicates passion for technology and external technical output"
     }
   ]
 }

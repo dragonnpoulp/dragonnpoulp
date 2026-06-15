@@ -1,7 +1,7 @@
-I am applying for the Golang Engineer position at ANDPAD. At Carousell, I currently lead a cross-functional team building trust and safety systems using Golang, implementing microservice and event-driven architectures for scalable processing.
+I am applying for the Senior Golang Engineer position. At Carousell, I currently lead a cross-functional team of 6 engineers while building backend services in Golang, implementing microservice and event-driven architectures for trust and safety systems. My experience migrating inventory-sync services into Carousell infrastructure demonstrates end-to-end ownership from design through deployment.
 
-I have 5+ years of Golang experience building backend services and APIs. At Carousell, I took ownership of the inventory-sync backend platform, led migration of services into microservices architecture, and published a Shopify integration app. My technical leadership spans architecture design through production deployment.
+Prior to engineering management, I served as technical lead for the Powersell.net platform and architect for SoBanHang's frontend systems. These roles strengthened my ability to define requirements, select appropriate middleware, and collaborate across product and design functions.
 
-I am proficient in AWS and experienced with both RDBMS and KVS databases. I have built monitoring solutions using Datadog and have web application security knowledge.
+I bring 5+ years of Golang experience with AWS and GCP cloud platforms, plus schema design skills across RDBMS and KVS systems. My background building scalable distributed systems aligns well with your SaaS platform serving the construction industry.
 
-I am drawn to ANDPAD's construction tech platform and SaaS approach. I look forward to contributing to a collaborative squad environment.
+I am drawn to this opportunity because it combines backend systems work with technical leadership, and I am eager to contribute to a mission-driven team.
