@@ -10,9 +10,8 @@
     ]
   },
   "careerHighlights": [
-    "Built and led Golang microservices for Carousell's inventory-sync platform, processing 100K+ daily inventory updates between merchants and Shopify",
+    "Built and led microservices for Carousell's inventory-sync platform, processing 100K+ daily inventory updates between merchants and Shopify",
     "Architected event-driven trust and safety systems for fraud detection, handling high-volume transaction processing at scale",
-    "Led migration of legacy Python services to Golang microservices, improving system reliability and maintainability",
     "Managed cross-functional team of 6 engineers across QA, Backend, Web, iOS, and Android for Carousell's core platform",
     "Designed and implemented scalable backend architectures for e-commerce platforms serving millions of users across Southeast Asia",
     "Technical Architect for SoBanHang's frontend systems, enabling rapid growth in Vietnam's competitive e-commerce market"
